@@ -3,7 +3,7 @@ URL to have access to all the codes : https://github.com/ChristopheYe/DM4-ML.git
 
 I. PROJECT'S TITLE
 
-DM3 ML
+DM4 ML
 
 II. PROJECT DESCRIPTION
 
